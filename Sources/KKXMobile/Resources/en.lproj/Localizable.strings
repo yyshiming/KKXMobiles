@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  
+
+  Created by ming on 2022/9/21.
+  
+*/
+
+"album" = "album";
+"device.album.access.format" = "please go to iPhone`s \"Setting-Privacy-Album\"  option，\r allow %@ access your album";
+"device.album.unavailable" = "album unavailable";
+"camera" = "camera";
+"device.camera.access.format" = "please go to iPhone`s \"Setting-Privacy-Camera\" allow %@ access your camera";
+"device.camera.unavailable" = "camera unavailable";
+"go.to.settings" = "go to settings";
+
+"ok" = "ok";
+"search" = "search";
+"cancel" = "cancel";
+"error" = "error";
+"retry" = "retry";
+"clear" = "clear";
+"previous.step" = "previous step";
+"next.step" = "next step";
+"search.history" = "search history";
+
+"scan.result.title" = "scan result";
+
+"save.to.album" = "save to album";
+"saved.to.album" = "saved to album success！";
+"save.failure" = "save to album failure";
