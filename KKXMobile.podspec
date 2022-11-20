@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KKXMobile'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = '包括常用的扩展，基础功能'
 
 # This description is used to generate tags and improve search results.
